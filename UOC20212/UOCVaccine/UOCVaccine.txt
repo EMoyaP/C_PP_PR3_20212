@@ -1,0 +1,1 @@
+../bin/Debug/src_date.c.o ../bin/Debug/src_vaccine.c.o ../bin/Debug/src_person.c.o ../bin/Debug/src_appointment.c.o ../bin/Debug/src_stock.c.o ../bin/Debug/src_api.c.o ../bin/Debug/src_csv.c.o ../bin/Debug/src_center.c.o
